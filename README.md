@@ -13,7 +13,7 @@ Escuela Politecnica Nacional
 
 ## Data-set can be found in the following link:
 
-* https://epnecuador-my.sharepoint.com/:f:/g/personal/angel_valdivieso_epn_edu_ec/EpcD07xuU5NOqNd5F2w1tgABolIaOLHNaMkko5vDgiDDkg?e=xsPTKq
+https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 
 ## Paste the data into the General or Specific folder, if not the code does not run.
 

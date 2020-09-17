@@ -43,4 +43,7 @@ https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
         * [1] General       : This option runs the general model in the current experiment 
         * [2] Especific     : This option runs the specific model in the current experiment 
         * [3] Exit
+## Evaluation
+The result obtained in json format must be evaluated in the following link:
 
+https://aplicaciones-ia.epn.edu.ec/webapps/home/session.html?app=EMG%20Gesture%20Recognition%20Evaluator

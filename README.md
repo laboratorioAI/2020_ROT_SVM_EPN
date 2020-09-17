@@ -11,6 +11,7 @@ https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 
 ## Instructions for Matlab:
 > Run main.m
+
 > Select the experiment to run
 # Parameters:
 * Syncro: number of synchronization signals to test (1-4);

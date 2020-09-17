@@ -13,7 +13,7 @@ https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 
 > Run jsontomat.m
 
-* After executing jsontomat.m two folders are generated:
+* After executing jsontomat.m two folders will be generated:
    * TrainingData folder
    * TestingData folder
 

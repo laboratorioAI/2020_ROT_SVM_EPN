@@ -7,7 +7,12 @@ Escuela Politecnica Nacional
 https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 
 ## Data convertion from .json to .mat 
+Download the Training users dataset and paste it into the folder "trainingJSON".
+Download the Testing users dataset and paste it into the folder "testingJSON".
+
 > Run jsontomat.m
+
+## Paste the data into the General or Specific folder, if the code does not run.
 
 ## Instructions for Matlab:
 > Run Main.m
@@ -15,8 +20,6 @@ https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 > Select the experiment to run
 ### Parameters:
 * Syncro: number of synchronization signals to test (1-4).
- 
-### Paste the data into the General or Specific folder, if the code does not run.
 
 ### MENU:
 

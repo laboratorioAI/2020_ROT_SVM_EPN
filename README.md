@@ -25,10 +25,10 @@ https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 > Run Main.m
 
 > Select the experiment to run
-### Parameters:
+## Parameters:
 * Syncro: number of synchronization signals to test (1-4).
 
-### Menu:
+## Menu:
 
 * Gesture Recognition
   * [1] Experiment 1       : This option runs the experiment 1
@@ -37,7 +37,7 @@ https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
   * [4] Experiment 4       : This option runs the experiment 4
   * [5] Exit
  
-      #### Select an option to run: 
+      ## Select an option to run: 
 
       * Classification Models
         * [1] General       : This option runs the general model in the current experiment 

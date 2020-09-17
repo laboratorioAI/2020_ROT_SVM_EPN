@@ -16,30 +16,31 @@ https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 * After executing jsontomat.m two folders will be generated:
    * TrainingData 
    * TestingData 
-* Copy the user folders generated in "TrainingData"(*.mat format) and paste them in the "Data\General\training" folder
+* Copy the user folders generated in "TrainingData"(*.mat format) and paste them in the "Data\General\training" folder.
 
 * Copy the user folders generated in "TestingData"(*.mat format) and paste them in the "Data\General\testing" and "Data\Specific" folders.
 
 ## Instructions for Matlab:
+
 > Run Main.m
 
 > Select the experiment to run
 ### Parameters:
 * Syncro: number of synchronization signals to test (1-4).
 
-### MENU:
+### Menu:
 
 * Gesture Recognition
-  * [1] Experiment 1       This option runs the experiment 1
-  * [2] Experiment 2       This option runs the experiment 2
-  * [3] Experiment 3       This option runs the experiment 3
-  * [4] Experiment 4       This option runs the experiment 4
+  * [1] Experiment 1       : This option runs the experiment 1
+  * [2] Experiment 2       : This option runs the experiment 2
+  * [3] Experiment 3       : This option runs the experiment 3
+  * [4] Experiment 4       : This option runs the experiment 4
   * [5] Exit
  
-#### Select an option to run: 
+      #### Select an option to run: 
 
-* Classification Models
-  * [1] General            This option runs the general model in the current experiment 
-  * [2] Especific          This option runs the specific model in the current experiment 
-  * [3] Exit
+      * Classification Models
+        * [1] General       : This option runs the general model in the current experiment 
+        * [2] Especific     : This option runs the specific model in the current experiment 
+        * [3] Exit
 

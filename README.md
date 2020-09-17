@@ -16,7 +16,7 @@ https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 * After executing jsontomat.m two folders will be generated:
    * TrainingData 
    * TestingData 
-* Copy the user folders generated(*.mat format) in TrainingData and paste them in the "Data" folder
+* Copy the user folders generated in "TrainingData"(*.mat format) and paste them in the "Data" folder
 
 ## Instructions for Matlab:
 > Run Main.m

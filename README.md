@@ -6,7 +6,7 @@ Escuela Politecnica Nacional
 ## Data-set can be found in the following link:
 https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 
-## Data convertion from .json to .mat 
+## Data conversion from .json to .mat 
 * Download the Training users dataset and paste it into the folder "trainingJSON".
 
 * Download the Testing users dataset and paste it into the folder "testingJSON".

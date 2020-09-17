@@ -14,7 +14,7 @@ https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 
 > Select the experiment to run
 # Parameters:
-* Syncro: number of synchronization signals to test (1-4);
+* Syncro: number of synchronization signals to test (1-4).
  
 ## Paste the data into the General or Specific folder, if the code does not run.
 

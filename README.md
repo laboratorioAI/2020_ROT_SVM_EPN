@@ -18,6 +18,8 @@ https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
    * TestingData 
 * Copy the user folders generated in "TrainingData"(*.mat format) and paste them in the "Data\General\training" folder
 
+* Copy the user folders generated in "TestingData"(*.mat format) and paste them in the "Data\General\testing" and "Data\Specific" folders.
+
 ## Instructions for Matlab:
 > Run Main.m
 

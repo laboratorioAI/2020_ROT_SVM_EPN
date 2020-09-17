@@ -10,13 +10,13 @@ https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 > Run jsontomat.m
 
 ## Instructions for Matlab:
-> Run main.m
+> Run Main.m
 
 > Select the experiment to run
-# Parameters:
+### Parameters:
 * Syncro: number of synchronization signals to test (1-4).
  
-## Paste the data into the General or Specific folder, if the code does not run.
+### Paste the data into the General or Specific folder, if the code does not run.
 
 ### MENU:
 

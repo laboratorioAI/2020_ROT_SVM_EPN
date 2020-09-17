@@ -15,7 +15,7 @@ Escuela Politecnica Nacional
 
 https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 
-## Paste the data into the General or Specific folder, if not the code does not run.
+## Paste the data into the General or Specific folder, if the code does not run.
 
 ### MENU:
 

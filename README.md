@@ -3,18 +3,18 @@
 > This code is based on the paper entitled "An Energy-based Method for Orientation Correction of EMG Bracelet Sensors in Hand Gesture Recognition Systems" by Laboratorio de Investigación en Inteligencia y Visión Artificial “Alan Turing”
 Escuela Politecnica Nacional
 (C) Copyright 2020
-
-## Instructions for Matlab:
-
-> Only Run main.m
-
-## Parameters:
-* Syncro: number of synchronization signals to test (1-4);
-
 ## Data-set can be found in the following link:
-
 https://laboratorio-ia.epn.edu.ec/es/recursos/dataset/2020_emg_dataset_612
 
+## Data convertion from .json to .mat 
+> Run jsontomat.m
+
+## Instructions for Matlab:
+> Run main.m
+> Select the experiment to run
+# Parameters:
+* Syncro: number of synchronization signals to test (1-4);
+ 
 ## Paste the data into the General or Specific folder, if the code does not run.
 
 ### MENU:

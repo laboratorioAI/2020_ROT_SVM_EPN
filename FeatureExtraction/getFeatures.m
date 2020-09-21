@@ -38,7 +38,7 @@ if sum(energy_(1:4,:)) > high_umbral  || sum(energy_(5:8,:)) > low_umbral
     WM_F5   =   varfun(@WMoos_F5,     TableEmgData);
    
 
-    emgActivity      = [WM_F1,  WM_F2,  WM_F3,  WM_F4,  WM_F5]
+    emgActivity      = [WM_F1,  WM_F2,  WM_F3,  WM_F4,  WM_F5];
 
                           
     assignin('base','check_umbral','classificationNeeded'); 
